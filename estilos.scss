@@ -92,7 +92,7 @@ li a:hover {
 
 main {
     background-image: url(./media/fondoIni.jpg);
-    height: calc(100vh - 160px);
+    height: 700px;
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -367,6 +367,10 @@ footer i {
         background: $lila;
         transition: .5s;
         border-radius: 10px 0px;
+    }
+
+    main {
+        height: 560px;
     }
 
     .galeria {
