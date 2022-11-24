@@ -342,7 +342,7 @@ footer i {
     border-radius: 10px 0px;
   }
   main {
-    height: 100VH;
+    height: 1000PX;
   }
   .galeria {
     grid-template-columns: repeat(4, 1fr);
